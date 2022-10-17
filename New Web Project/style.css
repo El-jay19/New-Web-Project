@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+    font-family: system-ui;
+    overflow:inherit;
+}
+.header{
+    background-color: white;
+    list-style-type: none;
+    text-align: 0;
+    padding: 0;
+}
+.nav li{
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
+.section_one{
+    background-image: url("./images/A/model-3.png");
+    background-size:cover;
+    padding-top:250px;
+    padding-bottom:250px;
+    width: auto;
+    color:black;
+    text-align: center;
+}
+.section_two{
+    background-image: url("./images/A/model-Y.jpg");
+    background-size:cover;
+    padding-top:400px;
+    padding-bottom:400px;
+    width: auto;
+    color:black;
+    text-align: center;
+}
+.section_three{
+    background-image: url("./images/A/model-S.jpg");
+    background-size:cover;
+    padding-top:400px;
+    padding-bottom:400px;
+    width: auto;
+    color:black;
+    text-align: center;
+}
+.section_four{
+    background-image: url("./images/A/model-X.jpg");
+    background-size:cover;
+    padding-top:400px;
+    padding-bottom:400px;
+    width: auto;
+    color:black;
+    text-align: center;
+}
+.section_five{
+    background-image: url("./images/A/Solar-Panel.jpg");
+    background-size:cover;
+    padding-top:400px;
+    padding-bottom:400px;
+    width: auto;
+    color:black;
+    text-align: center;
+}
+.section_six{
+    background-image: url("./images/A/solar-roof1.png");
+    background-size:cover;
+    padding-top:450px;
+    padding-bottom:450px;
+    width: auto;
+    color:black;
+    text-align: center;
+}
+.section_seven{
+    background-image: url("./images/A/wall-connector2.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding-top:500px;
+    padding-bottom:500px;
+    width: auto;
+    color:black;
+    text-align: center;
+}
